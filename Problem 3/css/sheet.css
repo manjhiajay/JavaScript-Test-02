@@ -1,0 +1,11 @@
+﻿* {
+    text-align: center;
+}
+.container {
+    background-color: lightcyan;
+    margin-top: 180px;
+}
+
+.h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
